@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kasper Haepers, a Belgian student who loves to code.
+I am Kasper Haepers, a Flemish student who loves to code.
 
 ### 🔭 I’m currently working on
 - [CaloriMod](https://calorimod.com)

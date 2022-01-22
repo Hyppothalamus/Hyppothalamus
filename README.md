@@ -6,6 +6,12 @@ I am Kasper Haepers, a Flemish student who loves to code.
 - [CaloriMod](https://calorimod.com)
 - [dot-files](https://github.com/Hyppothalamus/dot-files)
 
+### ✨ My Programming languages
+- **java**
+- **js**
+- **bash**
+- **markdown**
+
 ### 🌱 I’m currently learning
 - **go**
 - **Python**

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kasper Haepers, a Flemish student who loves to code.
+I am Kasper Haepers, a Flemish student who loves to code and learn new challenging code related stuff.
 
 ### 🔭 I’m currently working on
 - [CaloriMod](https://calorimod.com)
@@ -12,6 +12,10 @@ I am Kasper Haepers, a Flemish student who loves to code.
 - **bash**
 - **markdown**
 
+### 🤔 I’m currently thinking of creating
+- **website portfolio**
+- **markdown to pdf/latex converter**
+
 ### 🌱 I’m currently learning
 - **go**
 - **Python**
@@ -19,6 +23,9 @@ I am Kasper Haepers, a Flemish student who loves to code.
 ### 📫 How to reach me:
 - [Discord](https://dsc.bio/hyppo)
 
+### ⚡ Fun fact:
+- I can't focus
+- ADHD
 <!--
 **Hyppothalamus/Hyppothalamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

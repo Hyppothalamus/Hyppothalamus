@@ -5,16 +5,19 @@ I am Kasper Haepers, a Flemish student who loves to code.
 ### 🔭 I’m currently working on
 - [CaloriMod](https://calorimod.com)
 - [dot-files](https://github.com/Hyppothalamus/dot-files)
+- [i3playerctl-go](https://github.com/hyppothalamus/i3playerctl-go)
 
 ### ✨ My Programming languages
 - **java**
+- **go**
 - **js**
 - **bash**
 - **markdown**
 
 ### 🌱 I’m currently learning
-- **go**
 - **Python**
+- **angular**
+- **java (for android)
 
 ### 📫 How to reach me:
 - [Discord](https://dsc.bio/hyppo)

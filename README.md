@@ -21,7 +21,7 @@ I am Kasper Haepers, a Flemish student who loves to code and learn new challengi
 ### 🌱 I’m currently learning
 - **Python**
 - **angular**
-- **java (for android)
+- **java (for android)**
 
 ### 📫 How to reach me:
 - [Discord](https://dsc.bio/hyppo)

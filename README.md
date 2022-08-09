@@ -4,8 +4,8 @@ I am Kasper Haepers, a Flemish student who loves to code and learn new challengi
 
 ### 🔭 I’m currently working on
 - [CaloriMod](https://calorimod.com)
+- [cay](https://github.com/yadiiiig/cay)
 - [dot-files](https://github.com/Hyppothalamus/dot-files)
-- [GO-markdown](https://github.com/hyppothalamus/go-markdown)
 
 ### ✨ My Programming languages
 - **java**

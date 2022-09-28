@@ -3,7 +3,7 @@
 I am Kasper Haepers, a Flemish student who loves to code and learn new challenging code related stuff.
 
 ### 🔭 I’m currently working on
-- [CaloriMod](https://calorimod.com)
+- [Portfolio](https://github.com/Hyppothalamus/portfolio)
 - [cay](https://github.com/yadiiiig/cay)
 - [dot-files](https://github.com/Hyppothalamus/dot-files)
 
@@ -17,7 +17,6 @@ I am Kasper Haepers, a Flemish student who loves to code and learn new challengi
 - **python**
 
 ### 🤔 I’m currently thinking of creating
-- **website portfolio**
 - **markdown to pdf/latex converter**
 
 ### 🌱 I’m currently learning
@@ -26,10 +25,12 @@ I am Kasper Haepers, a Flemish student who loves to code and learn new challengi
 
 ### 📫 How to reach me:
 - [Discord](https://dsc.bio/hyppo)
+- [Linkedin](https://www.linkedin.com/in/kasper-haepers/)
 
 ### ⚡ Fun fact:
 - I can't focus
 - ADHD
+- Love to learn new things
 <!--
 **Hyppothalamus/Hyppothalamus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

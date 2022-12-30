@@ -10,6 +10,7 @@ I am Kasper Haepers, a Flemish student who loves to code and learn new challengi
 ### ✨ My Programming languages
 - **java**
 - **go**
+- **.net**
 - **js**
     - typescript
 - **bash**
